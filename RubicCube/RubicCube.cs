@@ -243,5 +243,21 @@ namespace Rubic3
             Down.MiddleRow[2] = tmp[1];
             Down.BottomRow[2] = tmp[2];
         }
+
+        public void RightAlg()
+        {
+            this.Turn(turn.R);
+            this.Turn(turn.U);
+            this.Turn(turn.RR);
+            this.Turn(turn.UU);
+        }
+
+        public void LeftAlg()
+        {
+            this.Turn(turn.LL);
+            this.Turn(turn.UU);
+            this.Turn(turn.L);
+            this.Turn(turn.UU);
+        }
     }
 } 
