@@ -1,7 +1,3 @@
-
-*.dll
 *.dll
 *.exe
-RubicCube/bin/Debug/RubicCube.dll
-*.dll
-RubicCube_Tester/bin/Debug/RubicCube.pdb
+*.pdb
