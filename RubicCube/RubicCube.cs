@@ -244,4 +244,4 @@ namespace Rubic3
             Down.BottomRow[2] = tmp[2];
         }
     }
-}
+} 
