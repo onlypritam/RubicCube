@@ -1,0 +1,8 @@
+c:\users\pritam\documents\visual studio 2015\Projects\RubicCube\RubicCube_Tester\bin\Debug\RubicCube_Tester.exe.config
+c:\users\pritam\documents\visual studio 2015\Projects\RubicCube\RubicCube_Tester\bin\Debug\RubicCube_Tester.exe
+c:\users\pritam\documents\visual studio 2015\Projects\RubicCube\RubicCube_Tester\bin\Debug\RubicCube_Tester.pdb
+c:\users\pritam\documents\visual studio 2015\Projects\RubicCube\RubicCube_Tester\bin\Debug\RubicCube.dll
+c:\users\pritam\documents\visual studio 2015\Projects\RubicCube\RubicCube_Tester\bin\Debug\RubicCube.pdb
+c:\users\pritam\documents\visual studio 2015\Projects\RubicCube\RubicCube_Tester\obj\Debug\RubicCube_Tester.csprojResolveAssemblyReference.cache
+c:\users\pritam\documents\visual studio 2015\Projects\RubicCube\RubicCube_Tester\obj\Debug\RubicCube_Tester.exe
+c:\users\pritam\documents\visual studio 2015\Projects\RubicCube\RubicCube_Tester\obj\Debug\RubicCube_Tester.pdb

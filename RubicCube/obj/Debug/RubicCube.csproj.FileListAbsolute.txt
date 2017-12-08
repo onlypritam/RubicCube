@@ -1,0 +1,5 @@
+c:\users\pritam\documents\visual studio 2015\Projects\RubicCube\RubicCube\bin\Debug\RubicCube.dll
+c:\users\pritam\documents\visual studio 2015\Projects\RubicCube\RubicCube\bin\Debug\RubicCube.pdb
+c:\users\pritam\documents\visual studio 2015\Projects\RubicCube\RubicCube\obj\Debug\RubicCube.csprojResolveAssemblyReference.cache
+c:\users\pritam\documents\visual studio 2015\Projects\RubicCube\RubicCube\obj\Debug\RubicCube.dll
+c:\users\pritam\documents\visual studio 2015\Projects\RubicCube\RubicCube\obj\Debug\RubicCube.pdb
