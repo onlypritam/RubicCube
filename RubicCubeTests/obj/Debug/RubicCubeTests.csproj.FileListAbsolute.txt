@@ -1,0 +1,9 @@
+C:\Users\Pritam\Documents\Visual Studio 2015\Projects\RubicCube\RubicCubeTests\bin\Debug\RubicCubeTests.dll
+C:\Users\Pritam\Documents\Visual Studio 2015\Projects\RubicCube\RubicCubeTests\bin\Debug\RubicCubeTests.pdb
+C:\Users\Pritam\Documents\Visual Studio 2015\Projects\RubicCube\RubicCubeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Pritam\Documents\Visual Studio 2015\Projects\RubicCube\RubicCubeTests\bin\Debug\RubicCube.dll
+C:\Users\Pritam\Documents\Visual Studio 2015\Projects\RubicCube\RubicCubeTests\bin\Debug\RubicCube.pdb
+C:\Users\Pritam\Documents\Visual Studio 2015\Projects\RubicCube\RubicCubeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Pritam\Documents\Visual Studio 2015\Projects\RubicCube\RubicCubeTests\obj\Debug\RubicCubeTests.csprojResolveAssemblyReference.cache
+C:\Users\Pritam\Documents\Visual Studio 2015\Projects\RubicCube\RubicCubeTests\obj\Debug\RubicCubeTests.dll
+C:\Users\Pritam\Documents\Visual Studio 2015\Projects\RubicCube\RubicCubeTests\obj\Debug\RubicCubeTests.pdb

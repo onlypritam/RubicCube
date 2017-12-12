@@ -156,13 +156,13 @@ namespace Rubic3
             Front.MiddleRow[0] = Up.MiddleRow[0];
             Front.BottomRow[0] = Up.BottomRow[0];
 
-            Up.TopRow[0] = Back.BottomRow[0];
-            Up.MiddleRow[0] = Back.MiddleRow[0];
-            Up.BottomRow[0] = Back.TopRow[0];
+            Up.TopRow[0] = Back.BottomRow[2];
+            Up.MiddleRow[0] = Back.MiddleRow[2];
+            Up.BottomRow[0] = Back.TopRow[2];
 
-            Back.TopRow[0] = Down.BottomRow[0];
-            Back.MiddleRow[0] = Down.MiddleRow[0];
-            Back.BottomRow[0] = Down.TopRow[0];
+            Back.TopRow[2] = Down.BottomRow[0];
+            Back.MiddleRow[2] = Down.MiddleRow[0];
+            Back.BottomRow[2] = Down.TopRow[0];
 
             Down.TopRow[0] = tmp[0];
             Down.MiddleRow[0] = tmp[1];
@@ -181,13 +181,13 @@ namespace Rubic3
             Front.MiddleRow[0] = Down.MiddleRow[0];
             Front.BottomRow[0] = Down.BottomRow[0];
 
-            Down.TopRow[0] = Back.BottomRow[0];
-            Down.MiddleRow[0] = Back.MiddleRow[0];
-            Down.BottomRow[0] = Back.TopRow[0];
+            Down.TopRow[0] = Back.BottomRow[2];
+            Down.MiddleRow[0] = Back.MiddleRow[2];
+            Down.BottomRow[0] = Back.TopRow[2];
 
-            Back.TopRow[0] = Up.BottomRow[0];
-            Back.MiddleRow[0] = Up.MiddleRow[0];
-            Back.BottomRow[0] = Up.TopRow[0];
+            Back.TopRow[2] = Up.BottomRow[0];
+            Back.MiddleRow[2] = Up.MiddleRow[0];
+            Back.BottomRow[2] = Up.TopRow[0];
 
             Up.TopRow[0] = tmp[0];
             Up.MiddleRow[0] = tmp[1];
@@ -206,13 +206,13 @@ namespace Rubic3
             Front.MiddleRow[2] = Down.MiddleRow[2];
             Front.BottomRow[2] = Down.BottomRow[2];
 
-            Down.TopRow[2] = Back.BottomRow[2];
-            Down.MiddleRow[2] = Back.MiddleRow[2];
-            Down.BottomRow[2] = Back.TopRow[2];
+            Down.TopRow[2] = Back.BottomRow[0];
+            Down.MiddleRow[2] = Back.MiddleRow[0];
+            Down.BottomRow[2] = Back.TopRow[0];
 
-            Back.TopRow[2] = Up.BottomRow[2];
-            Back.MiddleRow[2] = Up.MiddleRow[2];
-            Back.BottomRow[2] = Up.TopRow[2];
+            Back.TopRow[0] = Up.BottomRow[2];
+            Back.MiddleRow[0] = Up.MiddleRow[2];
+            Back.BottomRow[0] = Up.TopRow[2];
 
             Up.TopRow[2] = tmp[0];
             Up.MiddleRow[2] = tmp[1];
@@ -231,13 +231,13 @@ namespace Rubic3
             Front.MiddleRow[2] = Up.MiddleRow[2];
             Front.BottomRow[2] = Up.BottomRow[2];
 
-            Up.TopRow[2] = Back.BottomRow[2];
-            Up.MiddleRow[2] = Back.MiddleRow[2];
-            Up.BottomRow[2] = Back.TopRow[2];
+            Up.TopRow[2] = Back.BottomRow[0];
+            Up.MiddleRow[2] = Back.MiddleRow[0];
+            Up.BottomRow[2] = Back.TopRow[0];
 
-            Back.TopRow[2] = Down.BottomRow[2];
-            Back.MiddleRow[2] = Down.MiddleRow[2];
-            Back.BottomRow[2] = Down.TopRow[2];
+            Back.TopRow[0] = Down.BottomRow[2];
+            Back.MiddleRow[0] = Down.MiddleRow[2];
+            Back.BottomRow[0] = Down.TopRow[2];
 
             Down.TopRow[2] = tmp[0];
             Down.MiddleRow[2] = tmp[1];
