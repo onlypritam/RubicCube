@@ -257,7 +257,7 @@ namespace Rubic3
             this.Turn(turn.LL);
             this.Turn(turn.UU);
             this.Turn(turn.L);
-            this.Turn(turn.UU);
+            this.Turn(turn.U);
         }
     }
 } 
