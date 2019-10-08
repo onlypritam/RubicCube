@@ -1,3 +1,5 @@
 *.dll
 *.exe
 *.pdb
+/.vs/RubicCube/v16/Server/sqlite3
+/.vs/RubicCube/v16/TestStore/0
